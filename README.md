@@ -53,4 +53,12 @@ Future Scope
 
 Screenshots
 
-(You can upload dashboard screenshots here on GitHub to visually show your dashboard.)
+(![Screenshot (170)](https://github.com/user-attachments/assets/6eb0af0a-aa2d-4f2a-b108-98d4dcfb1dc5)
+
+![Screenshot (171)](https://github.com/user-attachments/assets/8b3fd327-6da6-40d0-ab76-100ee6b10e87)
+![Screenshot (172)](https://github.com/user-attachments/assets/8a933405-7396-42c8-8e7f-1aba41760b1b)
+![Screenshot (173)](https://github.com/user-attachments/assets/d187dcd5-4c4b-4156-baf2-09901e163af8)
+![Screenshot (174)](https://github.com/user-attachments/assets/251ff27a-e26f-4e08-8bcb-824313d954d3)
+![Screenshot (175)](https://github.com/user-attachments/assets/fa75e5ae-e8dd-46c5-9a87-bae65af7587f)
+![Screenshot (176)](https://github.com/user-attachments/assets/c78db046-1c54-46fe-bc25-3086eef2918c)
+![Screenshot (181)](https://github.com/user-attachments/assets/56c183ca-0699-43a5-8cbd-4ba611f0a0bf)
